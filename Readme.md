@@ -13,3 +13,5 @@ The data set I used chose 6079 houses in Sao Paulo that were listed for rent. I 
 This data listed the number of wildfires reported in each state of Brazil from the late 90s to 2017, but I indexed 2001 to 2007, and only focused on Acre and Bahia. Fires in Brazil are a particularly important issue as the Amazon is home to the largest rainforest in the world.
 
 [Here's](https://www.kaggle.com/gustavomodelli/forest-fires-in-brazil) the fire data, which I also found on Kaggle. 
+
+[This](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_02) is the link for the GitHub instructions. 
